@@ -1,4 +1,4 @@
-# proxy-brute-force -Simple Proxy Auth Brute Forcer.
+# Proxy-Brute-Force - Simple Proxy Auth Brute Forcer.
 
 
 
